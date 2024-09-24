@@ -1,0 +1,85 @@
+body{
+    padding: 0;
+    background-color: limegreen;
+}
+.containerDiv{
+    margin: 0;
+    background-color:#363636;
+    position: absolute;
+    top: 30%;
+    bottom: 30%;
+    left: 35%;
+    right: 35%;
+    box-sizing: border-box;
+    border: solid white 3px;
+    border-radius: 15px;
+}
+
+.textContainer{
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:6vw;
+    text-wrap: nowrap;
+    position: absolute;
+    top:25%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dateHolder{
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:3vw;
+    text-wrap: nowrap;
+    position: absolute;
+    top:-30%;
+    bottom: 25%;
+    left: 37.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.monthHolder{
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:3vw;
+    text-wrap: nowrap;
+    position: absolute;
+    top:-30%;
+    bottom: 25%;
+    right: 37.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.secondsContainer{
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:6vw;
+    text-wrap: nowrap;
+    position: absolute;
+    top:85%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
